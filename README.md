@@ -13,13 +13,13 @@ python smith-waterman.py [-h] [-g GAP_PENALTY] [-m MATCH] [-p MISMATCH] [-o OUTP
 By default without an output name the code will return also a file txt named SW_output
 
 ### Options/parameters : 
- * First seqeunce, which correspond of the rows of the matrix
- * Second sequence, whihc are the columns fo the matrix
- * -h, --help, which disaply the helper and exit
- * -g , -- gap_penalty, scoring value for the gaps, by defautl is -1
- * -m , -- match, scoring value for the matches, by defautl is 2
- * -p , -- mismatch, scoring value for the misamtches, by defautl is -1
- * -o , --output_name, Name of the output file that will be created (default: SW_output)
+ * First seqeunce [required], which correspond of the rows of the matrix
+ * Second sequence [required], whihc are the columns fo the matrix
+ * -h, --help [optional] which disaply the helper and exit
+ * -g , -- gap_penalty [optional] scoring value for the gaps, by defautl is -1
+ * -m , -- match [optional] scoring value for the matches, by defautl is 2
+ * -p , -- mismatch [optional] scoring value for the misamtches, by defautl is -1
+ * -o , --output_name [optional] Name of the output file that will be created (default: SW_output)
  
 ### Example 
 ```
