@@ -15,7 +15,7 @@ By default without an output name the code will return also a file txt named SW_
 ### Options/parameters : 
  * First seqeunce, which correspond of the rows of the matrix
  * Second sequence, whihc are the columns fo the matrix
- * --h, --help, which disaply the helper and exit
+ * -h, --help, which disaply the helper and exit
  * -g , -- gap_penalty, scoring value for the gaps, by defautl is -1
  * -m , -- match, scoring value for the matches, by defautl is 2
  * -p , -- mismatch, scoring value for the misamtches, by defautl is -1
