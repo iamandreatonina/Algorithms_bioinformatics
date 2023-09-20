@@ -2,6 +2,8 @@
 
 Implementation of Smith-Waterman algorithm in python as project for the course of Algorithm for Bioinformatics, held by professor Enrico Blanzieri (A.Y 2022-2023).
 
+[Code](https://github.com/iamandreatonina/Algorithms_bioinformatics/edit/main/code)
+
 ### Cloning the repository
 ```
 git clone https://github.com/iamandreatonina/Algorithms_bioinformatics.git
