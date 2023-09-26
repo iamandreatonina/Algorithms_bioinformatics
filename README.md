@@ -4,6 +4,12 @@ Implementation of Smith-Waterman algorithm in Python as a project for the course
 
 [Code](https://github.com/iamandreatonina/Algorithms_bioinformatics/blob/main/Code/smith-waterman.py)
 
+### Libraries and modules 
+* [NumPy](https://numpy.org/)
+* [itertools](https://docs.python.org/3/library/itertools.html)
+* [argparse](https://docs.python.org/3/library/argparse.html)
+
+
 ### Cloning the repository
 ```
 git clone https://github.com/iamandreatonina/Algorithms_bioinformatics.git
